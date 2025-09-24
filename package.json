@@ -1,7 +1,7 @@
 {
   "name": "homebridge-tplink-smarthome",
   "displayName": "Homebridge TPLink Smarthome",
-  "version": "8.0.3",
+  "version": "8.1.0",
   "description": "TPLink Smarthome plugin for Homebridge",
   "keywords": [
     "homebridge-plugin",
@@ -17,11 +17,11 @@
     "smartbulb"
   ],
   "bugs": {
-    "url": "https://github.com/plasticrake/homebridge-tplink-smarthome/issues"
+    "url": "https://github.com/joesav0/homebridge-tplink-smarthome/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/plasticrake/homebridge-tplink-smarthome.git"
+    "url": "git://github.com/joesav0/homebridge-tplink-smarthome.git"
   },
   "funding": {
     "type": "github",
@@ -99,7 +99,7 @@
     "typescript": "~5.3.3"
   },
   "engines": {
-    "homebridge": ">=1.6.0",
+    "homebridge": ">=2.0.0",
     "node": ">=18"
   },
   "commit-and-tag-version": {
